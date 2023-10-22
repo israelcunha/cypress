@@ -1,0 +1,13 @@
+{
+    "name": "cypress-example-kitchensink",
+    "version": "0.0.0-development",
+    "description": "This is an example app used to showcase Cypress.io testing",
+    "main": "index.js",
+    "scripts": {
+        "cy:run": "cypress run",
+        "cy:open": "cypress open"
+    },
+    "devDependencies": {
+        "cypress": "^12.17.4"
+    }
+}
